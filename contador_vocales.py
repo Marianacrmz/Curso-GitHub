@@ -1,3 +1,4 @@
+# Se realizó este comentario para hacer un nuevo commit y realizar una prueba.
 # Solicitar una oración al usuario
 oracion = input("Por favor ingresa una oracion: ")
 
